@@ -4,7 +4,10 @@
 > We want self-driving cars, and we want them with an awesome list.  - Not Peter Thiel
 
 ## Introduction
-A curated list of awesome self-driving car courses, datasets, simulators, and big players.
+A curated list of all awesome things related to self-driving car.
+
+## Contributing
+Contributions are highly appreciated. Please send me pull request. Make sure the stuff you add is actually awesome. We are not trying to include everything here, only awesome stuff.
 
 ## Table of Contents
 - [Datasets](#datasets)
@@ -14,6 +17,8 @@ A curated list of awesome self-driving car courses, datasets, simulators, and bi
 
 <a name="datasets" />
 ## Datasets
+* [comma.ai's Driving Dataset [Videos]](https://github.com/commaai/research) - 7 and a quarter hours (~ 80 GB) of largely highway driving. With this dataset, comma.ai's founder [George Hotz](https://twitter.com/realgeorgehotz) trained a self-driving car [all by himself](https://www.bloomberg.com/features/2015-george-hotz-self-driving-car/).
+* [Udacity's Driving Dataset [Videos]](https://github.com/udacity/self-driving-car/tree/master/datasets) - 8 hours (over 280 GB) of driving data collected for their [open source self-driving car challenges](https://www.udacity.com/self-driving-car). Udacity also provides convinient [scripts](https://github.com/rwightman/udacity-driving-reader) to port the data.
 
 <a name="simulators" />
 ## Simulators
