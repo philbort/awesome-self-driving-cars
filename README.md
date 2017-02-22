@@ -38,3 +38,5 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 
 <a name="big-players" />
 ## Big Players
+* [comma.ai](comma.ai/) - *The Android of self-driving cars* claimed by their founder George Hotz. They open sourced their [dataset and software](https://github.com/commaai/research), [driving agent](https://github.com/commaai/openpilot), and [research platform](https://github.com/commaai/neo) after some disagreement with the [NHTSA](https://techcrunch.com/2016/10/28/comma-ai-cancels-the-comma-one-following-nhtsa-letter/).
+* [Otto](http://ot.to/) - Self-driving truck company acquired by Uber for $680M. Made to the awesome list by delivering beer from Denver to Colorado Springs with [120 miles of highway self-driving](https://www.youtube.com/watch?v=Qb0Kzb3haK8).
