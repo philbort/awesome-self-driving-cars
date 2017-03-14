@@ -16,23 +16,27 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 - [Papers & Blogs](#papers-blogs)
 - [Big Players](#big-players)
 
-<a name="datasets" />
+<a name="datasets" /> 
+
 ## Datasets
 * [comma.ai's Driving Dataset [Videos]](https://github.com/commaai/research) - 7 and a quarter hours (~ 80 GB) of largely highway driving. With this dataset, comma.ai's founder [George Hotz](https://twitter.com/realgeorgehotz) trained a self-driving car [all by himself](https://www.bloomberg.com/features/2015-george-hotz-self-driving-car/).
 * [Udacity's Driving Dataset [Videos]](https://github.com/udacity/self-driving-car/tree/master/datasets) - 8 hours (over 280 GB) of driving data collected for their [open source self-driving car challenges](https://www.udacity.com/self-driving-car). Udacity also provides convinient [scripts](https://github.com/rwightman/udacity-driving-reader) to port the data.
 * [German Traffic Sign [Images]](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) - More than 50,000 images and 40 classes of traffic signs. Excellent resource to benchmark your traffic sign classifier.
 
-<a name="simulators" />
+<a name="simulators" /> 
+
 ## Simulators
 * [Udacity's Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim) - This simulator is built for Udacity's Self-Driving Car Nanodegree to teach students how to train cars how to navigate road courses using deep learning. It is used for the project of [Behavioral Cloning](https://github.com/udacity/CarND-Behavioral-Cloning-P3).
 * [Microsoft's AirSim](https://github.com/Microsoft/AirSim) - An open-source and cross platform simulator built for drones and other vehicles. AirSim is designed as a platform for AI research to experiment with deep learning, computer vision and reinforcement learning algorithms for autonomous vehicles. 
 
 <a name="courses" />
+
 ## Courses
 * [Udacity Self-Driving Car Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) - Udacity's flagship program is sponsored by many self-driving car hiring partners. The nanodegree program includes 3 terms: 1) [Term 1: Computer Vision and Deep Learning](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.k5745vhdw), 2) [Term 2: Sensor Fusion, Localization, and Control](https://medium.com/udacity/term-2-in-depth-on-udacitys-self-driving-car-curriculum-775130aae502#.oh8xi152p), and 3) Term 3: Path Planning, Elective, and Systems. Each term costs $800.
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/) - This class is an introduction to the practice of deep learning through the applied theme of building a self-driving car. It is open to beginners and is designed for those who are new to machine learning, but it can also benefit advanced researchers in the field looking for a practical overview of deep learning methods and their application. By the way, it's *free*!
 
 <a name="papers-blogs" />
+
 ## Papers & Blogs
 * [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316) - Nvidia's ground breaking paper on using end to end learning (i.e., raw camera iamges as the input and steering commands as the output) with a Convolutional Neural Network (CNN) for behavioral cloning.
 * [Learning a Driving Simulator](https://arxiv.org/abs/1608.01230) - [comma.ai](http://comma.ai/)'s approach for self-driving cars is based on an agent that learns to clone driver behaviors and plans maneuvers by simulating future events in the road. This paper investigates variational autoencoders with classical and learned cost functions using generative adversarial networks for embedding road frames. A transition model is learned in the embedded space using action conditioned Recurrent Neural Networks (RNNs). 
@@ -41,6 +45,7 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 * [Ways to think about cars](http://ben-evans.com/benedictevans/2015/7/27/ways-to-think-about-cars) - Awesome blog post by [a16z](http://a16z.com/)'s [Benedict Evans](https://twitter.com/BenedictEvans) on electric cars, on-demand car services, and self-driving cars.
 
 <a name="big-players" />
+
 ## Big Players
 * [comma.ai](comma.ai/) - *The Android of self-driving cars* claimed by their founder George Hotz. They open sourced their [dataset and software](https://github.com/commaai/research), [driving agent](https://github.com/commaai/openpilot), and [research platform](https://github.com/commaai/neo) after some disagreement with the [NHTSA](https://techcrunch.com/2016/10/28/comma-ai-cancels-the-comma-one-following-nhtsa-letter/).
 * [drive.ai](drve.ai/) - Silicon Valley startup founded by former lab mates out of Stanford University’s Artificial Intelligence Lab. Working on creating AI software for autonomous vehicles with deep learning. See their impressive drive demo [here](https://www.youtube.com/watch?v=GMvgtPN2IBU).
