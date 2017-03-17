@@ -29,6 +29,8 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 ## Simulators
 * [Udacity's Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim) - This simulator is built for Udacity's Self-Driving Car Nanodegree to teach students how to train cars how to navigate road courses using deep learning. It is used for the project of [Behavioral Cloning](https://github.com/udacity/CarND-Behavioral-Cloning-P3).
 * [Microsoft's AirSim](https://github.com/Microsoft/AirSim) - An open-source and cross platform simulator built for drones and other vehicles. AirSim is designed as a platform for AI research to experiment with deep learning, computer vision and reinforcement learning algorithms for autonomous vehicles. 
+* [MIT's Moral Machine](http://moralmachine.mit.edu/) - Moral machine provides a *"platform for 1) building a crowd-sourced picture of human opinion on how machines should make decisions when faced with moral dilemmas, and 2) crowd-sourcing assembly and discussion of potential scenarios of moral consequence"*. If you are a fan of the [trolley problem](https://en.wikipedia.org/wiki/Trolley_problem), you can't miss this.
+* [MIT's Google Self-Driving Car Simulator](https://scratch.mit.edu/projects/108721238/) - Self-driving car simulated completely by visual programming language [Scratch](https://en.wikipedia.org/wiki/Scratch_(programming_language)).
 
 <a name="courses" />
 
