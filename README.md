@@ -63,3 +63,4 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 <a name="legislation" />
 
 ## Legislation
+* [California](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/bkgd) - Application required for [testing self-driving cars](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/testing). Maneufactors are required to provide [accident reports](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/autonomousveh_ol316+) and [disengagement reports](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/disengagement_report_2016). The regulations for [post-testing deployment](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/auto) of self-driving cars have been drafted and will establish the requirements for manufacturers to meet prior to operation on California’s on public roads
