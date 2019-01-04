@@ -25,6 +25,7 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 * [German Traffic Sign [Images]](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) - More than 50,000 images and 40 classes of traffic signs. Excellent resource to benchmark your traffic sign classifier.
 * [KITTI Vision Benchmark Suite [Images]](http://www.cvlibs.net/datasets/kitti/) - Large vision benchmark dataset with [objection detection](http://www.cvlibs.net/datasets/kitti/eval_object.php) evaluation training/testing images and leaderboard on cars and pedestrians.
 * [Washington DC's Lidar Data](https://aws.amazon.com/blogs/publicsector/lidar-data-for-washington-dc-is-available-as-an-aws-public-dataset/) - Lidar point cloud of the entire Washington DC area is made available by the District of Columbia’s Office of the Chief Technology Officer (OCTO).
+* [Apolloscape [Videos]](http://apolloscape.auto/scene.html#) - Apolloscape data set is currently the largest and most complex data set.
 
 <a name="simulators" /> 
 
