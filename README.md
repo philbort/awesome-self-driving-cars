@@ -20,12 +20,13 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 <a name="datasets" /> 
 
 ## Datasets
+* [KITTI Vision Benchmark Suite [Images]](http://www.cvlibs.net/datasets/kitti/) - Large vision benchmark dataset with [objection detection](http://www.cvlibs.net/datasets/kitti/eval_object.php) evaluation training/testing images and leaderboard on cars and pedestrians.
+* [Cityscapes](https://www.cityscapes-dataset.com/) - Semantic, instance-wise, dense pixel annotations of 30 classes.
 * [comma.ai's Driving Dataset [Videos]](https://github.com/commaai/research) - Seven and a quarter hours (~ 80 GB) of largely highway driving. With this dataset, comma.ai's founder [George Hotz](https://twitter.com/realgeorgehotz) trained a self-driving car [all by himself](https://www.bloomberg.com/features/2015-george-hotz-self-driving-car/).
 * [Udacity's Driving Dataset [Videos]](https://github.com/udacity/self-driving-car/tree/master/datasets) - Eight hours (over 280 GB) of driving data collected for their [open source self-driving car challenges](https://www.udacity.com/self-driving-car). Udacity also provides convenient [scripts](https://github.com/rwightman/udacity-driving-reader) to port the data.
 * [German Traffic Sign [Images]](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) - More than 50,000 images and 40 classes of traffic signs. Excellent resource to benchmark your traffic sign classifier.
-* [KITTI Vision Benchmark Suite [Images]](http://www.cvlibs.net/datasets/kitti/) - Large vision benchmark dataset with [objection detection](http://www.cvlibs.net/datasets/kitti/eval_object.php) evaluation training/testing images and leaderboard on cars and pedestrians.
 * [Washington DC's Lidar Data](https://aws.amazon.com/blogs/publicsector/lidar-data-for-washington-dc-is-available-as-an-aws-public-dataset/) - Lidar point cloud of the entire Washington DC area is made available by the District of Columbia’s Office of the Chief Technology Officer (OCTO).
-* [Apolloscape [Videos]](http://apolloscape.auto/scene.html#) - Apolloscape data set is currently the largest and most complex data set.
+* [Apolloscape](http://apolloscape.auto/scene.html#) - Apolloscape provides images with 10x higher resolution and pixel-level annotation. And also Provides multiple levels of scene complexity.
 
 <a name="simulators" /> 
 
