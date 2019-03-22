@@ -27,23 +27,23 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
   - [Planning]()
   - [Control]()
   - [Misc]()
-- [Algorithm]()
+- [Algorithms]()
 - [Systems]()
   - [RTOS]()
   - [Message Queue]()
   - [Monitor]()
   - [Security]()
   - [V2X]()
-- [Hardware]
-  - [Computing Unit]
-  - [GPS/IMU]
-  - [Camera]
-  - [LiDAR]
-  - [RADAR]
-  - [Ultrasonic Sensor]
-  - [HMI Device]
-  - [Black Box]
-  - [Drive-by-wire]
+- [Hardware]()
+  - [Computing Unit]()
+  - [GPS/IMU]()
+  - [Camera]()
+  - [LiDAR]()
+  - [RADAR]()
+  - [Ultrasonic Sensor]()
+  - [HMI Device]()
+  - [Black Box]()
+  - [Drive-by-wire]()
 - [Big Players](#big-players)
 - [Legislation](#legislation)
 
