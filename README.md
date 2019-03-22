@@ -11,7 +11,7 @@ A curated list of all awesome things related to self-driving car.
 
 
 ## Contributing
-Contributions are highly appreciated. Please send me pull request. Make sure the stuff you add is actually awesome. We are **not** trying to include everything here, only awesome stuff. Please feel free to contact me if you have any questions.
+Contributions are highly appreciated. Please send me pull request. We want really **awesome** stuff. Please feel free to contact me if you have any questions.
 
 
 
@@ -123,6 +123,7 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 * [Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite](#) - Introduced why we need a new benchmark. The challenge of recording large amounts of real data. And how to develop metrics for each data set.
 * [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316) - Nvidia's ground breaking paper on using end to end learning (i.e., raw camera images as the input and steering commands as the output) with a Convolutional Neural Network (CNN) for behavioral cloning.
 
+
 <a name="hd-map" />
 
 #### HD Map
@@ -130,12 +131,14 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 <a name="localization" />
 
 #### Localization
+* [Robust and Precise Vehicle Localization based on Multi-sensor Fusion in Diverse City Scenes](https://arxiv.org/abs/1711.05805) - Present a robust and precise localization system that achieves centimeter-level localization accuracy in disparate city scenes by sensor fusion.
+* [Map-Based Precision Vehicle Localization in Urban Environments](http://www.roboticsproceedings.org/rss03/p16.pdf) - 
+* [Robust Vehicle Localization in Urban Environments Using Probabilistic Maps](http://driving.stanford.edu/papers/ICRA2010.pdf) -
 
 <a name="perception" />
 
 #### Perception
 * [Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art](https://arxiv.org/pdf/1704.05519.pdf) - State-of-the-art survey on computer vision-related problems datasets and methods for self-driving cars.
-
 
 <a name="prediction" />
 
@@ -144,6 +147,7 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 <a name="planning" />
 
 #### Planning
+* [ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](https://arxiv.org/abs/1812.03079) - Waymo's paper about how to train a policy for autonomous driving via imitation learning that is robust enough to drive a real vehicle.
 
 <a name="control" />
 
