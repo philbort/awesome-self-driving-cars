@@ -11,8 +11,7 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 
 ## Table of Contents
 - [Opensource](#opensource)
-- [Datasets](#datasets)
-- [benchmark](#benchmark)
+- [Datasets & benchmark](#datasets)
 - [Simulators](#simulators)
 - [Courses](#courses)
 - [Papers & Blogs](#papers-blogs)
