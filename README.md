@@ -52,7 +52,7 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
   - [Drive by wire](#drive-by-wire)
 - [Big Players](#big-players)
 - [Legislation](#legislation)
-
+- [TODO](#todo)
 
 
 <a name="opensource" />
@@ -269,3 +269,9 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 * **South Korea** -
 * **Japan** -
 * **Europe** -
+
+
+
+<a name="todo" />
+## TODO
+* The introduction should be limited to one sentence or two sentences, or nothing.
