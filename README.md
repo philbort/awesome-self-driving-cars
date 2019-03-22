@@ -16,6 +16,13 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 - [Courses](#courses)
 - [Papers & Blogs](#papers-blogs)
   - [Overview](#papers-blogs)
+  - [HD map](#papers-blogs)
+  - [localization]()
+  - [perception]()
+  - [prediction]()
+  - [planning]()
+  - [control]()
+  - [misc]()
 - [Big Players](#big-players)
 - [Legislation](#legislation)
 
@@ -114,3 +121,9 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 * **New York** - It is [announced](https://www.governor.ny.gov/news/governor-cuomo-announces-autonomous-vehicle-testing-begin-new-york-state) on May 10, 2017 that the state is accepting application for self-driving car testing. The pilot testing program is included in FY 2018 and can be further extended.
 * **Texas** - Bill [SB 2205](http://www.capitol.state.tx.us/Search/DocViewer.aspx?ID=85RSB022051A&QueryText=%22SB+2205%22&DocType=A) is proposed to implement minimum safety requirements and accelerate testing of self-driving cars on public roads. The bill passed the Texas Senate Transportation Committee and it is currently pending Senate debate and referral to the House.
 * **Virginia** - Arguably the most friendly state to self-driving cars with no application or permit required and [$25M per year fund](https://www.washingtonpost.com/local/trafficandcommuting/virginia-wants-to-steal-some-of-californias-driverless-thunder/2017/04/23/a4bc6b54-206c-11e7-a0a7-8b2a45e3dc84_story.html?utm_term=.cfaac3ec962d) set to facilitate self-driving cars. [Virginia Automated Corridors](https://governor.virginia.gov/newsroom/newsarticle?articleId=8526) is announced to offer self-driving car developers the opportunity to *test their technologies on Virginia roads covering more than 70 miles of interstates and arterials in the Northern Virginia region*.
+* **Singapore** -
+* **China** -
+* **South Korea** -
+* **Japan** -
+* **Europe** -
+
