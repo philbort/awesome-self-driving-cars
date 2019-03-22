@@ -9,7 +9,6 @@ A curated list of all awesome things related to self-driving car.
 ## Contributing
 Contributions are highly appreciated. Please send me pull request. Make sure the stuff you add is actually awesome. We are **not** trying to include everything here, only awesome stuff.
 
-[TOC]
 
 ## Table of Contents
 - [Opensource](#opensource)
@@ -19,33 +18,33 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 - [Simulators](#simulators)
 - [Courses](#courses)
 - [Papers & Blogs](#papers-blogs)
-  - [Overview]()
-  - [HD Map]()
-  - [Simulation]()
-  - [Localization]()
-  - [Calibration]()
-  - [Perception]()
-  - [Prediction]()
-  - [Planning]()
-  - [Control]()
-  - [Misc]()
-- [Algorithms]()
-- [Systems]()
-  - [RTOS]()
-  - [Message Queue]()
-  - [Monitor]()
-  - [Security]()
-  - [V2X]()
-- [Hardware]()
-  - [Computing Unit]()
-  - [GPS/IMU]()
-  - [Camera]()
-  - [LiDAR]()
-  - [RADAR]()
-  - [Ultrasonic Sensor]()
-  - [HMI Device]()
-  - [Black Box]()
-  - [Drive-by-wire]()
+  - [Overview](#overview)
+  - [HD Map](#hd-map)
+  - [Simulation](#simulation)
+  - [Localization](#localization)
+  - [Calibration](#calibration)
+  - [Perception](#perception)
+  - [Prediction](#prediction)
+  - [Planning](#planning)
+  - [Control](#control)
+  - [Misc](#misc)
+- [Algorithms](#algorithms)
+- [Systems](#systems)
+  - [RTOS](#rtos)
+  - [Message Queue](#message-queue)
+  - [Monitor](#monitor)
+  - [Security](#security)
+  - [V2X](#v2x)
+- [Hardware](#hardware)
+  - [Computing Unit](#computing-unit)
+  - [GPS/IMU](#gps-imu)
+  - [Camera](#camera)
+  - [LiDAR](#lidar)
+  - [RADAR](#radar)
+  - [Ultrasonic Sensor](#ultrasonic-sensor)
+  - [HMI Device](#hmi-device)
+  - [Black Box](#black-box)
+  - [Drive by wire](#drive-by-wire)
 - [Big Players](#big-players)
 - [Legislation](#legislation)
 
@@ -107,34 +106,117 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 * [Ways to think about cars](http://ben-evans.com/benedictevans/2015/7/27/ways-to-think-about-cars) - Awesome blog post by [a16z](http://a16z.com/)'s [Benedict Evans](https://twitter.com/BenedictEvans) on electric cars, on-demand car services, and self-driving cars.
 * [Cars and second order consequences](http://ben-evans.com/benedictevans/2017/3/20/cars-and-second-order-consequences) - [Benedict Evans](https://twitter.com/BenedictEvans) on the impact of electric and autonomy on cars and beyond.
 * [An Introduction to LIDAR](https://news.voyage.auto/an-introduction-to-lidar-the-key-self-driving-car-sensor-a7e405590cff) - Awesome introduction by [Voyage](http://voyage.auto/) about the key sensor of self-driving cars.
+
+<a name="overview" />
+
 ### Overview
+
+<a name="hd-map" />
 
 ### HD Map
 
-### localization
+<a name="localization" />
 
-### perception
+### Localization
 
-### prediction
+<a name="perception" />
 
-### planning
+### Perception
 
-### control
+<a name="prediction" />
 
-### misc
+### Prediction
+
+<a name="planning" />
+
+### Planning
+
+<a name="control" />
+
+### Control
+
+<a name="misc" />
+
+### Misc
 
 
-<a name="Algorithms" />
+
+
+<a name="algorithms" />
 
 ## Algorithms
 
-<a name="Systems" />
+
+
+<a name="systems" />
 
 ## Systems
 
-<a name="Hardware" />
+
+<a name="rtos" />
+
+### RTOS
+
+<a name="message-queue" />
+
+### Message Queue
+
+<a name="monitor" />
+
+### Monitor
+
+<a name="security" />
+
+### Security
+
+<a name="v2x" />
+
+## V2X
+
+
+
+<a name="hardware" />
 
 ## Hardware
+
+
+<a name="computing-unit" />
+
+### Computing Unit
+
+<a name="gps-imu" />
+
+### GPS/IMU
+
+<a name="camera" />
+
+### Camera
+
+<a name="lidar" />
+
+### LiDAR
+
+<a name="radar" />
+
+### RADAR
+
+
+<a name="ultrasonic-sensor" />
+
+### Ultrasonic Sensor
+
+<a name="hmi-device" />
+
+### HMI Device
+
+<a name="black-box" />
+
+### Black Box
+
+<a name="drive-by-wire" />
+
+### Drive by wire
+
 
 <a name="big-players" />
 
