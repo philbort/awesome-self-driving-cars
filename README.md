@@ -12,8 +12,8 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 
 ## Table of Contents
 - [Opensource](#opensource)
-  - [Fullstack]()
-  - [Library]()
+  - [Fullstack](#fullstack)
+  - [Library](#library)
 - [Datasets & Benchmarks](#datasets)
 - [Simulators](#simulators)
 - [Courses](#courses)
@@ -52,16 +52,23 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 <a name="opensource" />
 
 ## Opensource
-### Fullstack
+
+<a name="fullstack" />
+
+#### Fullstack
 * [apollo]() - 
 * [autoware]() -
 * [openpilot](https://github.com/commaai/openpilot) - 
 
-### Library
+
+<a name="library" />
+
+#### Library
 * [pcl]() -
 * [opencv]() -
 * [caffe]() -
-* []
+
+
 
 <a name="datasets" /> 
 
@@ -109,35 +116,35 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 
 <a name="overview" />
 
-### Overview
+#### Overview
 
 <a name="hd-map" />
 
-### HD Map
+#### HD Map
 
 <a name="localization" />
 
-### Localization
+#### Localization
 
 <a name="perception" />
 
-### Perception
+#### Perception
 
 <a name="prediction" />
 
-### Prediction
+#### Prediction
 
 <a name="planning" />
 
-### Planning
+#### Planning
 
 <a name="control" />
 
-### Control
+#### Control
 
 <a name="misc" />
 
-### Misc
+#### Misc
 
 
 
@@ -155,23 +162,23 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 
 <a name="rtos" />
 
-### RTOS
+#### RTOS
 
 <a name="message-queue" />
 
-### Message Queue
+#### Message Queue
 
 <a name="monitor" />
 
-### Monitor
+#### Monitor
 
 <a name="security" />
 
-### Security
+#### Security
 
 <a name="v2x" />
 
-## V2X
+#### V2X
 
 
 
@@ -182,40 +189,40 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 
 <a name="computing-unit" />
 
-### Computing Unit
+#### Computing Unit
 
 <a name="gps-imu" />
 
-### GPS/IMU
+#### GPS/IMU
 
 <a name="camera" />
 
-### Camera
+#### Camera
 
 <a name="lidar" />
 
-### LiDAR
+#### LiDAR
 
 <a name="radar" />
 
-### RADAR
-
+#### RADAR
 
 <a name="ultrasonic-sensor" />
 
-### Ultrasonic Sensor
+#### Ultrasonic Sensor
 
 <a name="hmi-device" />
 
-### HMI Device
+#### HMI Device
 
 <a name="black-box" />
 
-### Black Box
+#### Black Box
 
 <a name="drive-by-wire" />
 
-### Drive by wire
+#### Drive by wire
+
 
 
 <a name="big-players" />
@@ -234,6 +241,8 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 * [Uber](http://uber.com) - Since self-driving cars are [existential crisis](http://www.recode.net/2017/2/20/14665438/self-driving-cars-uber-alphabet-google-waymo-brad-stone-upstarts-recode-podcast) to Uber, they have been actively building and testing their self-driving cars in [Pittsburgh, PA](https://newsroom.uber.com/pittsburgh-self-driving-uber/) and [Tempe, Arizona](https://www.bloomberg.com/news/articles/2017-02-21/uber-launches-self-driving-cars-in-arizona-after-california-ban). They also bought [Otto](http://ot.to/) and teamed up with [Volvo](http://www.theverge.com/2016/10/25/13404306/uber-volvo-self-driving-car-pittsburgh-spotted) and [Daimler](http://www.theverge.com/2017/1/31/14453704/uber-daimler-partnership-self-driving-cars-mercedes-benz-volvo) on deployment of self-driving cars. 
 * [Udacity](https://www.udacity.com/) - Founded by self-driving car pioneer [Sebastian Thrun](https://twitter.com/SebastianThrun), Udacity is democratizing education and providing the best self-driving car education program through their [nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
 * [Waymo](https://waymo.com/) - Google's self-driving car company has driven way more miles than any other companies also with a much smaller [disengagement rate](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/disengagement_report_2016). 
+
+
 
 <a name="legislation" />
 
