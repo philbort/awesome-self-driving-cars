@@ -10,6 +10,7 @@ A curated list of all awesome things related to self-driving car.
 Contributions are highly appreciated. Please send me pull request. Make sure the stuff you add is actually awesome. We are **not** trying to include everything here, only awesome stuff.
 
 ## Table of Contents
+- [Opensource](#opensource)
 - [Datasets](#datasets)
 - [benchmark](#benchmark)
 - [Simulators](#simulators)
@@ -17,6 +18,15 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 - [Papers & Blogs](#papers-blogs)
 - [Big Players](#big-players)
 - [Legislation](#legislation)
+
+
+<a name="opensource" />
+
+## Opensource
+* [apollo]() - 
+* [autoware]() -
+* [openpilot](https://github.com/commaai/openpilot) - 
+
 
 <a name="datasets" /> 
 
@@ -38,6 +48,9 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 * [Microsoft's AirSim](https://github.com/Microsoft/AirSim) - An open-source and cross platform simulator built for drones and other vehicles. AirSim is designed as a platform for AI research to experiment with deep learning, computer vision and reinforcement learning algorithms for autonomous vehicles. 
 * [MIT's Moral Machine](http://moralmachine.mit.edu/) - Moral machine provides a *"platform for 1) building a crowd-sourced picture of human opinion on how machines should make decisions when faced with moral dilemmas, and 2) crowd-sourcing assembly and discussion of potential scenarios of moral consequence"*. If you are a fan of the [trolley problem](https://en.wikipedia.org/wiki/Trolley_problem), you can't miss this.
 * [MIT's Google Self-Driving Car Simulator](https://scratch.mit.edu/projects/108721238/) - Self-driving car simulated completely by visual programming language [Scratch](https://en.wikipedia.org/wiki/Scratch_(programming_language)).
+* [Carla](https://github.com/carla-simulator/carla) - 
+* [Lgsvl](https://github.com/lgsvl/simulator) - 
+
 
 <a name="courses" />
 
@@ -45,6 +58,7 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 * [Udacity Self-Driving Car Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) - Udacity's flagship program is sponsored by many self-driving car hiring partners. The nanodegree program includes 3 terms: 1) [Term 1: Computer Vision and Deep Learning](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.k5745vhdw), 2) [Term 2: Sensor Fusion, Localization, and Control](https://medium.com/udacity/term-2-in-depth-on-udacitys-self-driving-car-curriculum-775130aae502#.oh8xi152p), and 3) Term 3: Path Planning, Elective, and Systems. Each term costs $800.
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/) - This class is an introduction to the practice of deep learning through the applied theme of building a self-driving car. It is open to beginners and is designed for those who are new to machine learning, but it can also benefit advanced researchers in the field looking for a practical overview of deep learning methods and their application. By the way, it's *free*!
 * [BitTiger Build Your Own Autonomous Vehicle Mastery Program](https://www.bittiger.io/livecourses/2yG3CYMWRdAgDguzK) - Two weeks of live classes in Bay Area taught by engineers from [Vector.ai](http://vectorai.io/) on building a self-driving mini car from ground up. Topics include deep learning, ROS, sensors, computer vision, localization, mapping and control. The program costs $7,000.
+
 
 <a name="papers-blogs" />
 
@@ -57,6 +71,22 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 * [Ways to think about cars](http://ben-evans.com/benedictevans/2015/7/27/ways-to-think-about-cars) - Awesome blog post by [a16z](http://a16z.com/)'s [Benedict Evans](https://twitter.com/BenedictEvans) on electric cars, on-demand car services, and self-driving cars.
 * [Cars and second order consequences](http://ben-evans.com/benedictevans/2017/3/20/cars-and-second-order-consequences) - [Benedict Evans](https://twitter.com/BenedictEvans) on the impact of electric and autonomy on cars and beyond.
 * [An Introduction to LIDAR](https://news.voyage.auto/an-introduction-to-lidar-the-key-self-driving-car-sensor-a7e405590cff) - Awesome introduction by [Voyage](http://voyage.auto/) about the key sensor of self-driving cars.
+### Overview
+
+### HD map 
+
+### localization
+
+### perception
+
+### prediction
+
+### planning
+
+### control
+
+### misc
+
 
 <a name="big-players" />
 
