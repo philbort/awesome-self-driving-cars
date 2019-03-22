@@ -15,7 +15,7 @@ Contributions are highly appreciated. Please send me pull request. Make sure the
 - [Simulators](#simulators)
 - [Courses](#courses)
 - [Papers & Blogs](#papers-blogs)
-- - [Overview]
+  - [Overview](#papers-blogs)
 - [Big Players](#big-players)
 - [Legislation](#legislation)
 
