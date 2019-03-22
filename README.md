@@ -9,7 +9,7 @@ A curated list of all awesome things related to self-driving car.
 ## Contributing
 Contributions are highly appreciated. Please send me pull request. Make sure the stuff you add is actually awesome. We are **not** trying to include everything here, only awesome stuff.
 
-[TOC]
+[TOC]  
 
 ## Table of Contents
 - [Opensource](#opensource)
