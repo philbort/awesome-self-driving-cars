@@ -244,6 +244,8 @@ Contributions are highly appreciated. Please send me pull request. We want reall
 <a name="big-players" />
 
 ## Big Players
+Now We don't know who will win, or if there are new technologies that can break this model.
+
 |                              |                                          |                                                 |                                  |
 |------------------------------|------------------------------------------|-------------------------------------------------|----------------------------------|
 | [comma.ai](comma.ai/)        | [Waymo](https://waymo.com/)              | [Cruise Automation](https://www.getcruise.com/) | [drive.ai](drve.ai/)             |
