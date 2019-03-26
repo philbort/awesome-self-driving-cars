@@ -244,7 +244,7 @@ Contributions are highly appreciated. Please send me pull request. We want reall
 <a name="big-players" />
 
 ## Big Players
-
+|                              |                                          |                                                 |                                  |
 |------------------------------|------------------------------------------|-------------------------------------------------|----------------------------------|
 | [comma.ai](comma.ai/)        | [Waymo](https://waymo.com/)              | [Cruise Automation](https://www.getcruise.com/) | [drive.ai](drve.ai/)             |
 | [Ford](http://www.ford.com/) | [Udacity](https://www.udacity.com/)      | [GM](https://www.gm.com/)                       | [nuTonomy](http://nutonomy.com/) |
