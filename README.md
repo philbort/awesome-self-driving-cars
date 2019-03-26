@@ -244,7 +244,7 @@ Contributions are highly appreciated. Please send me pull request. We want reall
 <a name="big-players" />
 
 ## Big Players
-|                              |                                          |                                                 |                                  |
+
 |------------------------------|------------------------------------------|-------------------------------------------------|----------------------------------|
 | [comma.ai](comma.ai/)        | [Waymo](https://waymo.com/)              | [Cruise Automation](https://www.getcruise.com/) | [drive.ai](drve.ai/)             |
 | [Ford](http://www.ford.com/) | [Udacity](https://www.udacity.com/)      | [GM](https://www.gm.com/)                       | [nuTonomy](http://nutonomy.com/) |
@@ -275,3 +275,4 @@ Contributions are highly appreciated. Please send me pull request. We want reall
 ## TODO
 * The introduction should be limited to one sentence or two sentences, or nothing.
 * The readme file should be divided into several files, perhaps not very urgent.
+* Another format to display the readme file.
