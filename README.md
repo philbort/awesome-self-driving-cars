@@ -244,13 +244,13 @@ Contributions are highly appreciated. Please send me pull request. We want reall
 <a name="big-players" />
 
 ## Big Players
-| [comma.ai](comma.ai/)                    | [Cruise Automation](https://www.getcruise.com/) | [drive.ai](drve.ai/)                |
+|                                          |                                                 |                                     |
 |------------------------------------------|-------------------------------------------------|-------------------------------------|
+| [comma.ai](comma.ai/)                    | [Cruise Automation](https://www.getcruise.com/) | [drive.ai](drve.ai/)                |
 | [Ford](http://www.ford.com/)             | [GM](https://www.gm.com/)                       | [nuTonomy](http://nutonomy.com/)    |
 | [NIO](http://www.nio.io/)                | [NVIDIA](http://www.nvidia.com/page/home.html)  | [Otto](http://ot.to/)               |
 | [Tesla](https://www.tesla.com/autopilot) | [Uber](http://uber.com)                         | [Udacity](https://www.udacity.com/) |
 | [Waymo](https://waymo.com/)              |                                                 |                                     |
-
 
 
 <a name="legislation" />
