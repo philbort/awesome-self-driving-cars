@@ -244,7 +244,11 @@ Contributions are highly appreciated. Please send me pull request. We want reall
 <a name="big-players" />
 
 ## Big Players
-Now We don't know who will win, or if there are new technologies that can break this model.
+
+```
+If I have seen further it is by standing on ye sholders of Giants.
+                                                                - Isaac Newton
+```
 
 |                              |                                          |                                                 |                                  |
 |------------------------------|------------------------------------------|-------------------------------------------------|----------------------------------|
