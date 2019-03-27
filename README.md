@@ -171,7 +171,7 @@ Contributions are highly appreciated. Please send me pull request. We want reall
 
 ## Algorithms
 
-
+//TODO
 
 <a name="systems" />
 
@@ -181,7 +181,7 @@ Contributions are highly appreciated. Please send me pull request. We want reall
 
 #### RTOS
 
-A real-time operating system (RTOS) is any operating system (OS) intended to serve real-time applications that process data as it comes in, typically without buffer delays. Processing time requirements (including any OS delay) are measured in tenths of seconds or shorter increments of time. A real time system is a time bound system which has well defined fixed time constraints. Processing must be done within the defined constraints or the system will fail. 
+> A real-time operating system (RTOS) is any operating system (OS) intended to serve real-time applications that process data as it comes in, typically without buffer delays. Processing time requirements (including any OS delay) are measured in tenths of seconds or shorter increments of time. A real time system is a time bound system which has well defined fixed time constraints. Processing must be done within the defined constraints or the system will fail. 
 
 [RT linux](https://rt.wiki.kernel.org/index.php/Main_Page) - For now you can use the path to make the Linux kernel a real-time operating system.
 
