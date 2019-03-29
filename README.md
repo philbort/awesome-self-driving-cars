@@ -185,8 +185,6 @@ Contributions are highly appreciated. Please send me pull request. We want reall
 
 [RT linux](https://rt.wiki.kernel.org/index.php/Main_Page) - For now you can use the path to make the Linux kernel a real-time operating system.
 
-[Free RTOS](https://docs.aws.amazon.com/freertos-kernel/latest/dg/interrupt-management.html) - 
-
 [thread affinity](https://en.wikipedia.org/wiki/Processor_affinity) - Processor affinity, or CPU pinning, enables the binding and unbinding of a process or a thread to a central processing unit (CPU) or a range of CPUs, so that the process or thread will execute only on the designated CPU or CPUs rather than any CPU. This can be viewed as a modification of the native central queue scheduling algorithm in a symmetric multiprocessing operating system.
 
 [interrupt binding](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_MRG/1.3/html/Realtime_Tuning_Guide/sect-Realtime_Tuning_Guide-General_System_Tuning-Interrupt_and_Process_Binding.html) - Realtime environments need to minimize or eliminate latency when responding to various events. Ideally, interrupts (IRQs) and user processes can be isolated from one another on different dedicated CPUs.
