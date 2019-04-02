@@ -152,6 +152,8 @@ Contributions are highly appreciated. Please send me pull request. We want reall
 
 * [Baidu Apollo EM Motion Planner](https://arxiv.org/abs/1807.08048) - A real-time motion planning system based on the Baidu Apollo (open source) autonomous driving platform.
 
+* [A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles](https://arxiv.org/abs/1604.07446) - A Survey.
+
 <a name="control" />
 
 #### Control
