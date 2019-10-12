@@ -87,9 +87,13 @@ Contributions are highly appreciated. Please send me pull request. We want reall
 * [Washington DC's Lidar Data](https://aws.amazon.com/blogs/publicsector/lidar-data-for-washington-dc-is-available-as-an-aws-public-dataset/) - Lidar point cloud of the entire Washington DC area is made available by the District of Columbia’s Office of the Chief Technology Officer (OCTO).
 * [Apolloscape](http://apolloscape.auto/scene.html#) - Apolloscape provides images with 10x higher resolution and pixel-level annotation. And also Provides multiple levels of scene complexity.
 * [nuScenes](https://www.nuscenes.org/overview) - The nuScenes dataset (pronounced /nuːsiːnz/) is a public large-scale dataset for autonomous driving provided by nuTonomy-Aptiv.
-* [German Traffic Sign [Images]](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) - More than 50,000 images and 40 classes of traffic signs. Excellent resource to benchmark your traffic sign classifier.
 
 
+#### Traffic Sign
+* [STSD](https://www.cvl.isy.liu.se/research/datasets/traffic-signs-dataset/) - More than 20 000 images with 20% labeled, Contains 3488 traffic signs.  
+* [LISA](http://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html) - 7855 annotations on 6610 frames.  
+* [Tsinghua-Tencent 100K](https://cg.cs.tsinghua.edu.cn/traffic-sign/) - 100000 images containing 30000 traffic-sign instances.  
+* [German Traffic Sign [Images]](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) - More than 50,000 images and 40 classes of traffic signs.
 
 <a name="simulators" /> 
 
