@@ -123,19 +123,25 @@ Contributions are highly appreciated. Please send me pull request. We want reall
 <a name="overview" />
 
 #### Overview
-* [Autonomous Driving in Urban Environments: Boss and the Urban Challenge](#) - DARPA
-* [Junior: The Stanford Entry in the Urban Challenge](#) - DARPA
-* [Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite](#) - Introduced why we need a new benchmark. The challenge of recording large amounts of real data. And how to develop metrics for each data set.
-* [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316) - Nvidia's ground breaking paper on using end to end learning (i.e., raw camera images as the input and steering commands as the output) with a Convolutional Neural Network (CNN) for behavioral cloning.
-
+* [A Survey of Autonomous Driving: Common Practices and Emerging Technologies](#) - 2019  IEEE Transactions on Intelligent Vehicles
+* [Self-Driving Cars: A Survey](#) - 2019 
+* [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316) - 2016 
+* [Towards Fully Autonomous Driving: Systems and Algorithms](#) - 2011 IEEE Intelligent Vehicles Symposium
 
 <a name="hd-map" />
 
 #### HD Map
 
+* [Highiy Efficient HD Map Creation: Acceierating Mapping Process with GPUs](http://on-demand.gputechconf.com/gtc/2017/presentation/s7656-shigeyuki-iwata-accelerating-hd-mapping.pdf) - 2017 An introduction PPT
+
 <a name="localization" />
 
 #### Localization
+**Survey**    
+* [A survey of the state-of-the-art localization techniques and their potentials for autonomous vehicle applications](#) - 2012
+* [Simultaneous localization and mapping: A survey of current trends in autonomous driving](#) - 2017
+
+**Details**
 * [Robust and Precise Vehicle Localization based on Multi-sensor Fusion in Diverse City Scenes](https://arxiv.org/abs/1711.05805) - Present a robust and precise localization system that achieves centimeter-level localization accuracy in disparate city scenes by sensor fusion.
 * [Map-Based Precision Vehicle Localization in Urban Environments](http://www.roboticsproceedings.org/rss03/p16.pdf) - 
 * [Robust Vehicle Localization in Urban Environments Using Probabilistic Maps](http://driving.stanford.edu/papers/ICRA2010.pdf) -
@@ -143,7 +149,16 @@ Contributions are highly appreciated. Please send me pull request. We want reall
 <a name="perception" />
 
 #### Perception
+**Survey**  
 * [Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art](https://arxiv.org/pdf/1704.05519.pdf) - State-of-the-art survey on computer vision-related problems datasets and methods for self-driving cars.
+
+**Object Detection**  
+* [Object Detection With Deep Learning: A Review](#) - 
+* [50 Years of object recognition: Directions forward](#) - 
+* [Deep Learning for Generic Object Detection: A Survey](#) - 
+
+**Lane Detection**  
+* [Recent progress in road and lane detection: a survey](#) - 
 
 <a name="prediction" />
 
@@ -152,11 +167,12 @@ Contributions are highly appreciated. Please send me pull request. We want reall
 <a name="planning" />
 
 #### Planning
+* [A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles](https://arxiv.org/abs/1604.07446) - A Survey.
+* [A Review of Motion Planning Techniques for Automated Vehicles](#) - 
+
 * [ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](https://arxiv.org/abs/1812.03079) - Waymo's paper about how to train a policy for autonomous driving via imitation learning that is robust enough to drive a real vehicle.
 
 * [Baidu Apollo EM Motion Planner](https://arxiv.org/abs/1807.08048) - A real-time motion planning system based on the Baidu Apollo (open source) autonomous driving platform.
-
-* [A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles](https://arxiv.org/abs/1604.07446) - A Survey.
 
 <a name="control" />
 
@@ -178,8 +194,6 @@ Contributions are highly appreciated. Please send me pull request. We want reall
 <a name="algorithms" />
 
 ## Algorithms
-
-//TODO
 
 <a name="systems" />
 
